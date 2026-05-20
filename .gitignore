@@ -1,5 +1,6 @@
 *.pdf
 
 !Week4/Task1/sql_query_output.pdf
+!Week4/Task1/evaluation_metrics.pdf
 
 *.docx
