@@ -4,3 +4,6 @@
 !Week4/Task1/evaluation_metrics.pdf
 
 *.docx
+venv
+.env
+__pycache__
