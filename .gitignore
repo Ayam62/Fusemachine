@@ -1,0 +1,5 @@
+*.pdf
+
+!Week4/Task1/sql_query_output.pdf
+
+*.docx
