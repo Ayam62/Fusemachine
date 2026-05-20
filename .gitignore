@@ -1,8 +1,11 @@
-*.pdf
 
-!Week4/Task1/sql_query_output.pdf
-!Week4/Task1/evaluation_metrics.pdf
-!Week4/Task2/Query_Decomposition.pdf
+
+Week4/Week3_Task1_Assignment.pdf
+Week4/Week3_Task2_Assignment.pdf
+Week4/Week3_Task3_Assignment.pdf
+Week4/Week3_Task4_Assignment.pdf
+
+
 
 *.docx
 venv
